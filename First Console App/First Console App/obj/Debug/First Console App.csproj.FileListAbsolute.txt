@@ -1,0 +1,8 @@
+D:\Learning Never Ends\Practice\First Console App\First Console App\bin\Debug\First Console App.exe.config
+D:\Learning Never Ends\Practice\First Console App\First Console App\bin\Debug\First Console App.exe
+D:\Learning Never Ends\Practice\First Console App\First Console App\bin\Debug\First Console App.pdb
+D:\Learning Never Ends\Practice\First Console App\First Console App\obj\Debug\First Console App.csproj.AssemblyReference.cache
+D:\Learning Never Ends\Practice\First Console App\First Console App\obj\Debug\First Console App.csproj.SuggestedBindingRedirects.cache
+D:\Learning Never Ends\Practice\First Console App\First Console App\obj\Debug\First Console App.csproj.CoreCompileInputs.cache
+D:\Learning Never Ends\Practice\First Console App\First Console App\obj\Debug\First Console App.exe
+D:\Learning Never Ends\Practice\First Console App\First Console App\obj\Debug\First Console App.pdb
